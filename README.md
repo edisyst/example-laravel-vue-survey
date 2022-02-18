@@ -38,7 +38,9 @@ https://tailwindui.com/components/application-ui/forms/sign-in-forms
 npm install -S vue-router@next
 ```
 
-
+# Test
+- In qualche modo non gli stò passando user, email e password, neanche arriva a validarli
+- 1:06:57 da fare la pagina Login.vue
 
 
 
