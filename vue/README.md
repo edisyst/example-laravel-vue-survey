@@ -5,3 +5,8 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ## Recommended IDE Setup
 
 - [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+
+Devo verificare che funzionino register e login
+
+RIPRENDI QUI 1:09:00
+

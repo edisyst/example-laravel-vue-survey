@@ -30,6 +30,13 @@ const store = createStore({
           commit("setUser", res);
         })
     },
+
+    /*
+    * RIPRENDI QUI 1:09:00
+    * */
+
+
+
   },
   mutations: {
     logout: state => {
