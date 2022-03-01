@@ -8,5 +8,8 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 Devo verificare che funzionino register e login
 
-RIPRENDI QUI 1:09:00
+### NPM
+- `npm i -S axios`
+
+RIPRENDI QUI 1:31:31
 
